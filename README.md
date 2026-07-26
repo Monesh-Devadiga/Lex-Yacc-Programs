@@ -58,7 +58,7 @@ This repository includes multiple Lex and Yacc programs covering:
 - To Evaluate boolean expressions
 - Validation of for loop statement syntax
 - Validation of if-else statement syntax
-- Grammar validation
+- To convert Infix arithmetic expression to Postfix form
 - Compiler Design laboratory exercises
 
 ## Learning Outcomes
