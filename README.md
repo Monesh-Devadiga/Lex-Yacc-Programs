@@ -55,7 +55,7 @@ output.exe
 This repository includes multiple Lex and Yacc programs covering:
  
 - To Evaluate arithmetic expressions
-- Pattern matching
+- To Evaluate boolean expressions
 - Arithmetic expression evaluation
 - Parser implementation
 - Grammar validation
