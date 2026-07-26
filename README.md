@@ -72,7 +72,8 @@ This repository includes multiple Lex and Yacc programs covering:
 - Build simple compiler components
 - Implement context-free grammars
 - Practice Compiler Design concepts
+  
 
-## License
-
-This repository is intended for educational purposes.
+---------------------------------------------------------------------------------------------------------------------
+Created By: 
+  [@Monesh Devadiga](https://github.com/Monesh-Devadiga)
