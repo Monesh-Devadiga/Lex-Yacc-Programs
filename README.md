@@ -54,7 +54,7 @@ output.exe
 
 This repository includes multiple Lex and Yacc programs covering:
  
-- Token identification
+- To Evaluate arithmetic expressions
 - Pattern matching
 - Arithmetic expression evaluation
 - Parser implementation
