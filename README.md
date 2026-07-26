@@ -53,7 +53,7 @@ output.exe
 ## Repository Contents
 
 This repository includes multiple Lex and Yacc programs covering:
-
+ 
 - Token identification
 - Pattern matching
 - Arithmetic expression evaluation
