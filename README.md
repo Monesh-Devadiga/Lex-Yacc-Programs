@@ -62,6 +62,7 @@ This repository includes multiple Lex and Yacc programs covering:
 - To chack Parentheses balanced or not
 - To Recognize Relational expressions
 - Simple calculator program
+- Type checking for int and float values
 
 ## Learning Outcomes
 
