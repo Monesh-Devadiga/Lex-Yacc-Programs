@@ -59,7 +59,7 @@ This repository includes multiple Lex and Yacc programs covering:
 - Validation of for loop statement syntax
 - Validation of if-else statement syntax
 - To convert Infix arithmetic expression to Postfix form
-- Compiler Design laboratory exercises
+- To chack Parentheses balanced or not
 
 ## Learning Outcomes
 
