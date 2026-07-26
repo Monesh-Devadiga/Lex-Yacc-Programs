@@ -57,7 +57,7 @@ This repository includes multiple Lex and Yacc programs covering:
 - To Evaluate arithmetic expressions
 - To Evaluate boolean expressions
 - Validation of for loop statement syntax
-- Parser implementation
+- if-else statement syntax Validation
 - Grammar validation
 - Compiler Design laboratory exercises
 
