@@ -61,6 +61,7 @@ This repository includes multiple Lex and Yacc programs covering:
 - To convert Infix arithmetic expression to Postfix form
 - To chack Parentheses balanced or not
 - To Recognize Relational expressions
+- Simple calculator program
 
 ## Learning Outcomes
 
