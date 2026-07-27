@@ -1,7 +1,7 @@
 ﻿# Lex-Yacc-Programs
 
 A collection of Lex (Flex) and Yacc (Bison) programs developed for Compiler Design laboratory exercises. This repository contains programs demonstrating lexical analysis, syntax analysis, token generation and parser implementation using Lex and Yacc.
-
+ 
 ## Features
 
 - Lexical analysis using Lex (Flex)
